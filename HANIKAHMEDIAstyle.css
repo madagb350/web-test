@@ -898,8 +898,8 @@ a.btn_04 {
 }
 
 a.btn_04:hover {
-	color:black;
-	background: #fff;
+	color:white;
+	background:#191919;
 }
 
 .fa-solid{
@@ -948,7 +948,7 @@ a.btn_04:hover {
   rotate: 90deg;
 }
 .accordion-004[open] summary {
-  color: #000;
+  color: white;
 }
 
 .accordion-004 p {
@@ -963,7 +963,11 @@ a.btn_04:hover {
 .accordion-004[open] p {
   transform: none;
   opacity: 1;
-  color: #000;
+  color: white;
+}
+
+a.btn_04:hover p {
+  color: #fff;
 }
 
 .fa-regular{
