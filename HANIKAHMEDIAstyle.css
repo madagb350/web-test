@@ -13,7 +13,7 @@ header{
 }
 
 body{
-  background:radial-gradient(circle closest-side at 200px 1200px,#547aa4 3%,#1c3151c9 50%,#252526 100%);
+  background:radial-gradient(circle closest-side at 200px 1200px,#547aa4 3%,#1c3151c9 50%,#191919 100%);
   max-width: 1280px;
   margin: auto;
 }
