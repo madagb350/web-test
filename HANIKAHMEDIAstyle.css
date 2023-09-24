@@ -285,12 +285,13 @@ a.btn_04:hover {
 }
 
 .mainphoto{
-  width: 825%;
+  width: 43%;
   height: auto;
   margin-right: 20px;
 }
 
 .subphotos{
+  width: 55%;
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 20px
