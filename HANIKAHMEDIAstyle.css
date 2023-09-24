@@ -330,6 +330,11 @@ img {
   width: 430px;
 }
 
+.inquiry{
+  padding: 30px 100px;
+}
+
+
 footer {
   background-color: #212121;
   display: flex;
