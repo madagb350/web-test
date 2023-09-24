@@ -641,7 +641,7 @@ ul.snsbtniti{
     bottom: 0;
     left: 0;
     right: 0;
-    box-shadow: inset 0px 0px 15px 15px #252526;
+    box-shadow: inset 0px 0px 50px 30px #1a1a1af7;
   }
 
   .services{
