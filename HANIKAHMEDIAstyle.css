@@ -7,7 +7,7 @@ p{
 }
 
 header{
-  background-color: #212121;
+  background-color: #202129;
   height: 65px;
   align-items: center;
   margin-right: calc(50% - 50vw);
@@ -339,7 +339,7 @@ img {
 
 
 footer {
-  background-color: #212121;
+  background-color: #202129;
   display: flex;
   padding: 0 35px;
   align-items: center;
