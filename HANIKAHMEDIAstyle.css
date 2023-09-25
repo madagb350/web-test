@@ -349,7 +349,7 @@ footer {
 }
 .footer-logo {
   height: 60px;
-  width: 100%;
+  width: 80%;
 }
 
 footer p {
@@ -690,6 +690,10 @@ ul.snsbtniti{
     align-items: center;
     flex-direction: column-reverse;
     margin: 30px 0
+  }
+
+  .inquiry{
+    padding: 10px 4%;
   }
 
 .gmail{
