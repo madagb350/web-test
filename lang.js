@@ -50,7 +50,7 @@ function langEn(){
 
 
     key.innerHTML = "The key to thriving in a fast-paced world";
-    key1.innerHTML = "Consumers are bombarded with endless options. Stand out by telling a compelling brand story and create an emotional<br> connection with customers, build trust, and set your business apart from the competition. It's not just about what you sell,<br>but the story behind it. Don't get left behind in the race, harness the power of brand storytelling and watch your business <br>thrive!";
+    key1.innerHTML = "Consumers are bombarded with endless options. Stand out by telling a compelling brand story and create an emotional<br> connection with customers, build trust, and set your business apart from the competition. It's not just about what you sell, but the story behind it. Don't get left behind in the race, harness the power of brand storytelling and watch your business <br>thrive!";
     btn2.innerHTML = "SAY HELLO";
 
     btn3.innerHTML = "VISIT OUR INSTAGRAM";
