@@ -717,16 +717,16 @@ ul.snsbtniti{
 }
 
 .mainphoto{
-  width: 43%;
+  width: 4%;
   height: auto;
-  margin-right: 20px;
+  margin-right: 6px;
 }
 
 .subphotos{
   width: 55%;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 20px
+  gap: 5px
 }
 
 .photo{
