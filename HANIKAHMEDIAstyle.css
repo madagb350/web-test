@@ -323,9 +323,7 @@ img {
   align-items: center;
 }
 
-.aboutsp{
-  display: none;
-}
+
 
 
 .text{
@@ -1051,7 +1049,9 @@ ul.snsbtniti{
       display: none;
     }
 
-    
+    .aboutsp{
+      display: none;
+    }
 
     
   }
