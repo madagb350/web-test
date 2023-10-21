@@ -709,11 +709,43 @@ ul.snsbtniti{
   padding: 0;
 }
 
-/* スクロールスナップ*/
-
 .photos{
-  display: none;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  width: 100%;
 }
+
+.mainphoto{
+  width: 43%;
+  height: auto;
+  margin-right: 20px;
+}
+
+.subphotos{
+  width: 55%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px
+}
+
+.photo{
+  border-radius: 10px;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+ }
+
+
+.items{
+  width: 100%;
+  height: auto;
+}
+
+/* スクロールスナップ
+
 
 .items01{
   width: 80%;
@@ -734,7 +766,8 @@ ul.snsbtniti{
   scroll-snap-align: center;
   flex-shrink: 0;
 }
-/*スクロールスナップ終了*/
+
+スクロールスナップ終了*/
 
 
 .header-logo{
