@@ -323,6 +323,10 @@ img {
   align-items: center;
 }
 
+.aboutsp{
+  display: none;
+}
+
 
 .text{
   width: 100%;
@@ -1034,8 +1038,6 @@ ul.snsbtniti{
     max-width: 400px;
     margin: 0 -5%;
 }
-
-
 }
 
 
@@ -1049,9 +1051,7 @@ ul.snsbtniti{
       display: none;
     }
 
-    .aboutsp{
-      display: none;
-    }
+    
 
     
   }
