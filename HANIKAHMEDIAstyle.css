@@ -323,9 +323,6 @@ img {
   align-items: center;
 }
 
-.aboutsp{
-  display: none;
-}
 
 .text{
   width: 100%;
@@ -700,6 +697,9 @@ ul.snsbtniti{
     display: none;
   }
 
+  .aboutsp{
+  }
+
   .inquiry{
     padding: 10px 4%;
   }
@@ -1034,6 +1034,8 @@ ul.snsbtniti{
     max-width: 400px;
     margin: 0 -5%;
 }
+
+
 }
 
 
@@ -1044,6 +1046,10 @@ ul.snsbtniti{
     }
 
     .servicesSP{
+      display: none;
+    }
+
+    .aboutsp{
       display: none;
     }
 
