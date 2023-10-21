@@ -710,23 +710,24 @@ ul.snsbtniti{
 }
 
 .photos{
-  display: flex;
+  display: block;
   justify-content: space-between;
   margin-bottom: 30px;
   width: 100%;
 }
 
 .mainphoto{
-  width: 42%;
+  width: 100%;
   height: auto;
   margin-right: 6px;
 }
 
 .subphotos{
-  width: 55%;
+  width: 100%;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 7px
+  gap: 20px;
+  margin-top: 10px;
 }
 
 .photo{
