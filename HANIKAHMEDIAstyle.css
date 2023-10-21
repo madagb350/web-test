@@ -323,6 +323,10 @@ img {
   align-items: center;
 }
 
+.aboutsp{
+  display: none;
+}
+
 .text{
   width: 100%;
   height: 100%;
@@ -690,6 +694,10 @@ ul.snsbtniti{
     align-items: center;
     flex-direction: column-reverse;
     margin: 30px 0
+  }
+
+  .about{
+    display: none;
   }
 
   .inquiry{
